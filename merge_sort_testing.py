@@ -79,4 +79,4 @@ print("\n\nSorted array is")
 for i in range(n):
 	print("%d" % arr[i],end=" ")
 
-# This code is contributed by Mohit Kumra
+# The merge sort code is contributed by Mohit Kumra
